@@ -6,7 +6,8 @@ video {
   position: fixed;
 }
 .hero-container {
-  /* background: 'url(${/ images/img-home.jpg})' center center/cover no-repeat; */
+  /* replace video background with image */
+  background: url(/images/img-home.jpg) center center/cover no-repeat;
   /* background:  background-image  background-position background-repeat*/
   height: 100vh;
   width: 100%;
